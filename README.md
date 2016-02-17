@@ -6,10 +6,10 @@
 <p>
 Media Center Updates:  <br />
 Update kodi media center with latest factory addons and settings, custom user settings and addons untouched.
-
-ES ROM Updates:
+<p>
+ES ROM Updates:  <br />
 Update the Emulation Station ROM games, adding newly added games to the play list, user settings and game state untouched.
-
+</p>
 PreUpdate:
 Updates the RaspberryMC Update addons script files with latest factory settings.
 
