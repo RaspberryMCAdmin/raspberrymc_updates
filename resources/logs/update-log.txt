@@ -1,0 +1,12 @@
+2016/01/24 08:57:04 Can't redirect stderr to file
+2016/01/24 08:58:02 Can't redirect stderr to file
+2016/01/24 08:58:06 Can't redirect stderr to file
+2016/01/24 09:34:49 
+Transferred:       645262 Bytes (  10.17 kByte/s)
+Errors:                 0
+Checks:             10515
+Transferred:           15
+Elapsed time:      1m1.9s
+
+2016/01/24 09:34:53 Can't redirect stderr to file
+2016/01/24 09:34:57 Can't redirect stderr to file

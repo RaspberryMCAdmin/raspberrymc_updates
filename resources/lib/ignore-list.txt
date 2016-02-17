@@ -1,0 +1,3 @@
+# a list of files, folders or rules to exclude from updating
+favourites.db
+favorites.db

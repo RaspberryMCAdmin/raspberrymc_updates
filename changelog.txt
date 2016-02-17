@@ -1,0 +1,12 @@
+0.0.2
+Exclude favorites.db, favourites.db when running updates, preventing users favorites from being overwritten.
+
+0.0.1 Initial RaspberryMC Update launcher plugin
+Updates to Menu logo
+Updates to Menu options:
+Sports:
+	*New Sports News sub menu
+Live TV:
+	*New USA TV sub menu
+Settings:
+	*Programs moved high

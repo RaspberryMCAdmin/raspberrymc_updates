@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Plugin name -->
+  <string id="30000">General Settings</string>
+  <string id="30001">System Reset Options</string>
+  <string id="30010">Full System Reset</string>
+  <string id="30011">Run PreUpdate</string>
+  <string id="30012">Media Center Update</string>
+  <string id="30015">Enable Debugging</string>
+  <string id="30019">Reset options will reset the system to the latest factory default settings.</string>
+  <string id="30020">Media Center Reset</string>
+  <string id="30021">ES ROM Updates</string>
+  <string id="30022">ES ROM Reset</string>
+  <string id="30023">ES Reset: </string>
+</strings>
