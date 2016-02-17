@@ -1,8 +1,7 @@
 <h2>RaspberryMC Update Addon keeps the RaspberryMC unit up to date with the latest addons and patches.</h2>
+Please visit http://raspberrymc.com for more information.
 
-<h3>Please visit http://raspberrymc.com for more information.</h3>
-
-<b>Setting Options:</b>
+<h3>Setting Options:</h3>
 <p>
 <b>Media Center Updates:  </b><br />
 Update kodi media center with latest factory addons and settings, custom user settings and addons untouched.
