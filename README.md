@@ -1,4 +1,5 @@
-<h2>RaspberryMC Update Addon keeps the RaspberryMC unit up to date with the latest addons and patches.</h2>
+<h1>RaspberryMC Update Addon</h1>
+<h2>Keeps the RaspberryMC unit up to date with the latest addons and patches.</h2>
 Please visit http://raspberrymc.com for more information.
 
 <h3>Setting Options:</h3>
