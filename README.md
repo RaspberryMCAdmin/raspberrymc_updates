@@ -1,28 +1,27 @@
-<h1>RaspberryMC Update Addon keeps the RaspberryMC unit up to date with the latest addons and patches.</h1>
+<h2>RaspberryMC Update Addon keeps the RaspberryMC unit up to date with the latest addons and patches.</h2>
 
-<h2>Please visit http://raspberrymc.com for more information.</h2>
+<h3>Please visit http://raspberrymc.com for more information.</h3>
 
 <b>Setting Options:</b>
 <p>
-Media Center Updates:  <br />
+<b>Media Center Updates:  </b><br />
 Update kodi media center with latest factory addons and settings, custom user settings and addons untouched.
-<p>
-ES ROM Updates:  <br />
+</p><p>
+<b>ES ROM Updates:  </b><br />
 Update the Emulation Station ROM games, adding newly added games to the play list, user settings and game state untouched.
-</p>
-PreUpdate:
+</p><p>
+<b>PreUpdate:  </b><br />
 Updates the RaspberryMC Update addons script files with latest factory settings.
-
-Full System Reset:
+</p><p>
+<b>Full System Reset:  </b><br />
 Reset the Media Center and Emulation Station back to the factory default settings, overwriting custom user settings, addons, and saved games status.
-
-Media Center Reset:
+</p><p>
+<b>Media Center Reset:  </b><br />
 Reset kodi media center back to latest factory default settings and addons, removing users custom settings and addon.
-
-ES ROM Reset:
+</p><p>
+<b>ES ROM Reset:  </b><br />
 Reset the Emulation Station ROM games back to factory default, overwriting custom user ROMs and save game data.
-
-ES Reset:
+</p><p>
+<b>ES Reset:  </b><br />
 Reset the Emulation Station back to latest factory default, overwrite users custom ROMs, saved game data, and settings.
-
 </p>
