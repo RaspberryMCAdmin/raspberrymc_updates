@@ -3,8 +3,9 @@ RaspberryMC Update Addon keeps the RaspberryMC unit up to date with the latest a
 Please visit http://raspberrymc.com for more information.
 
 <b>Setting Options:</b>
-Media Center Updates:
+<p>Media Center Updates:
 Update kodi media center with latest factory addons and settings, custom user settings and addons untouched.
+</p>
 
 ES ROM Updates:
 Update the Emulation Station ROM games, adding newly added games to the play list, user settings and game state untouched.
