@@ -4,7 +4,8 @@
 
 <b>Setting Options:</b>
 <p>
-Media Center Updates:  Update kodi media center with latest factory addons and settings, custom user settings and addons untouched.
+Media Center Updates:  <br />
+Update kodi media center with latest factory addons and settings, custom user settings and addons untouched.
 
 ES ROM Updates:
 Update the Emulation Station ROM games, adding newly added games to the play list, user settings and game state untouched.
