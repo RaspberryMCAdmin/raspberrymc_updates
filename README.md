@@ -3,9 +3,8 @@
 <h2>Please visit http://raspberrymc.com for more information.</h2>
 
 <b>Setting Options:</b>
-Media Center Updates:
-Update kodi media center with latest factory addons and settings, custom user settings and addons untouched.
-</p>
+<p>
+Media Center Updates:  Update kodi media center with latest factory addons and settings, custom user settings and addons untouched.
 
 ES ROM Updates:
 Update the Emulation Station ROM games, adding newly added games to the play list, user settings and game state untouched.
@@ -24,3 +23,5 @@ Reset the Emulation Station ROM games back to factory default, overwriting custo
 
 ES Reset:
 Reset the Emulation Station back to latest factory default, overwrite users custom ROMs, saved game data, and settings.
+
+</p>
